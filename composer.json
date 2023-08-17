@@ -22,7 +22,7 @@
   ],
   "require": {
     "php": ">=5.5",
-    "composer/installers": "^1.4",
+    "composer/installers": "^2.1",
     "htmlburger/wpemerge": "~0.17.0",
     "htmlburger/wpemerge-app-core": "~0.17.0"
   },
